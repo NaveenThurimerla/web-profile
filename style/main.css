@@ -1,0 +1,7 @@
+html {
+    min-height: 100%;
+}
+body
+{
+	background-image: linear-gradient(to top, rgba(105,105,120,0), rgba(105,105,120,1));
+}
