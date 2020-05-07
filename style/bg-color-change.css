@@ -1,3 +1,8 @@
+html
+{
+	min-height: 100%;
+}
+
 .wrapper
 {
 	text-align: center;
@@ -6,5 +11,30 @@
 
 .button {
 	position: absolute;
-    top: 50%;
+	top: 50%;
+	border: 20px;
+	border-radius: 90cm;
+	padding: 20px;
+	margin: auto;
+}
+.text 
+{
+	position: absolute;
+	top: 60%;
+	left: 50%;
+
+}
+.quotation
+{
+	position: fixed;
+	width: 40%;
+	text-align: center;
+	top: 30%;
+	left: 35%;
+	border: 30px;
+	border-color: black;
+	background-color: chartreuse;
+	border-radius: 90cm;
+	padding: 10px;
+	margin: auto;
 }
